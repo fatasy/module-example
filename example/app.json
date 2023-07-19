@@ -1,0 +1,22 @@
+{
+  "name": "module-example-example",
+  "displayName": "FReactNativeSchedule Example",
+  "expo": {
+    "name": "module-example-example",
+    "slug": "module-example-example",
+    "description": "Example app for module-example",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
