@@ -1,6 +1,6 @@
 {
   "name": "module-example",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "Flexible scheduling library with more built-in features and enhanced customization options",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
